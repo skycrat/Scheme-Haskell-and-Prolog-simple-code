@@ -1,17 +1,17 @@
-(display "Introducir el primer valor")
+(display "Introduce the first digit")
 (newline)
 (define a (read))
 
-(display "Introducir el segundo valor")
+(display "Introduce the first digit")
 (newline)
 (define b (read))
 
-(display "Introducir el tercer valor")
+(display "Introduce the first digit")
 (newline)
 (define c (read))
 
 (define (sum a b c)
-  (display "El resultado es: ")
+  (display "The result is: ")
   (+ a b c))
 
 (sum a b c)
