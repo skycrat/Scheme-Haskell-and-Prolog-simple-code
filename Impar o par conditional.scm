@@ -15,7 +15,7 @@
        (display "The result is: ")
        (+ a b))
   
-   (else (display "Please make sure the first number is even y the second one odd"))))
+   (else (display "Please, make sure the first number is even y the second one odd"))))
 
 (newline)
 (newline)
