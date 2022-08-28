@@ -1,9 +1,9 @@
 
-(display "Introducir primer número")
+(display "Introduce the first digit")
 (newline)
 (define a (read))
 
-(display "Introducir segundo número")
+(display "Introduce the second digit")
 (newline)
 (define b (read))
 
@@ -12,10 +12,10 @@
 
 (cond ((and(even? a) (odd? b)) 
        
-       (display "El resultado es: ")
+       (display "The result is: ")
        (+ a b))
   
-   (else (display "Favor asegurarse que el primer numero sea par y el segundo impar"))))
+   (else (display "Please make sure the first number is even y the second one odd"))))
 
 (newline)
 (newline)
