@@ -2,6 +2,7 @@
 - 👀 I’m interested in machine learning, deep learning and data science.
 - 🌱 I’m currently learning artificial intelligence.
 - 💞️ I’m looking to collaborate on a huge project some day that can make an impact on society.
+- This repository mainly contain code from AI programming languages.
 
 
 <!---
